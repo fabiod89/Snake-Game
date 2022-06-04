@@ -11,3 +11,4 @@ pip install pygame
 A fun little Snake game I created over a weekend. 
 - Time goes faster whenever you eat an apple
 - Game restart whenever you hit a wall or yourself
+- test
